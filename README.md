@@ -1,6 +1,6 @@
 # Emotive Voice Speech Emotion Analyzer
 
-* The idea behind creating this project was to build a voice emotion detector that could detect emotions from audio from speech, as a way to support a way to advance _animals_ from its current stagnation.
+* The idea behind creating this project was to build a voice emotion detector that could detect emotions from audio from speech, as a way to support a way to advance _animals_ from its current stagnation. A good idea.
 
 ## Analyzing audio signals
 ![image](images/joomla_speech_prosody.png?raw=true)
